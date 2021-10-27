@@ -1,0 +1,12 @@
+.pushBtn {
+    padding: 5px 20px;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+.pushBtn:hover {
+    background-color: #fffa99;
+}
